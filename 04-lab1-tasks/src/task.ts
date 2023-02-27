@@ -16,7 +16,7 @@ export class Task1 {
         }
         //const validation = input % 2 == 0;
         //console.log(`resultado ====> ${validation}`);
-        console.log(str1 + '-' + str2);
+    //    console.log(str1 + '-' + str2);
         //return validation;
         return (str1==str2);
     }
