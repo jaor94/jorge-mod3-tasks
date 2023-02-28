@@ -18,7 +18,7 @@ export class Task1 {
         //console.log(`resultado ====> ${validation}`);
     //    console.log(str1 + '-' + str2);
         //return validation;
-        return (str1==str2);
+        return (str1.toLowerCase()==str2.toLowerCase());
     }
     
     
