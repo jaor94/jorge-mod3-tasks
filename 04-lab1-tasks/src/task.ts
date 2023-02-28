@@ -1,6 +1,6 @@
 export class Task1 {
     esPalindromo(input: string): boolean {
-        let res:boolean = false;
+        //let res:boolean = false;
         let strLength = input.length;
         let str1:string ='';
         let str2:string ='';
