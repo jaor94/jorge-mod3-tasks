@@ -1,0 +1,10 @@
+01: ._siteLogo_phohr._siteLogo_vq8eg._siteLogo_tj7meg._siteLogo_f0594._siteLogoAdaptive_ft89e._siteLogoAdaptive_0yc43.wt-col-inline._siteHeader__logo_3iub8._siteHeader__logo_hweu6
+02: //div[@class='_mainMenuItem_wc76vj'][2]
+03: //div[@class='_siteHeaderActions__action_lnlo2 _siteHeaderActions__action_i2mrqj'][3]
+04: #js-menu-second-desktop>a.wt-col-inline.menu-second__download-button.wt-button.wt-button_size_s.wt-button_mode_primary
+05: //a[contains(@href, '/es-es/idea/features#collaborative')]
+06: //a[contains(text(),"IntelliJ Profiler")]
+07: #overview-content > div > section.wt-section.wt-section_bg_white.wt-section_theme_light.comparison-section > div > div > div:nth-child(1) > div > div > span > button
+08: //*[@id="overview-content"]/div/section[6]/div/div/div[2]/div/div/span/a    
+09: //a[contains(@href, '/es-es/products/compare/?product=idea&product=idea-ce')]
+10: 
