@@ -1,6 +1,9 @@
-01: ._siteLogo_phohr._siteLogo_vq8eg._siteLogo_tj7meg._siteLogo_f0594._siteLogoAdaptive_ft89e._siteLogoAdaptive_0yc43.wt-col-inline._siteHeader__logo_3iub8._siteHeader__logo_hweu6
-02: //div[@class='_mainMenuItem_wc76vj'][2]
-03: //div[@class='_siteHeaderActions__action_lnlo2 _siteHeaderActions__action_i2mrqj'][3]
+01: ._siteLogo_gree6._siteLogo_pe4qw._siteLogo_gw6kg._siteLogo_1beda._siteLogoAdaptive_pk2qv._siteLogoAdaptive_fj1bf.wt-col-inline._siteHeader__logo_mthb6._siteHeader__logo_v6m5e 
+    ._siteLogo_phohr._siteLogo_vq8eg._siteLogo_tj7meg._siteLogo_f0594._siteLogoAdaptive_ft89e._siteLogoAdaptive_0yc43.wt-col-inline._siteHeader__logo_3iub8._siteHeader__logo_hweu6
+02: //div[@class='_mainMenuItem_46kbz'][2]
+    //div[@class='_mainMenuItem_wc76vj'][2]
+03: //div[@class='_siteHeaderActions__action_6b92e _siteHeaderActions__action_bxgm7f'][3]
+    //div[@class='_siteHeaderActions__action_lnlo2 _siteHeaderActions__action_i2mrqj'][3]
 04: #js-menu-second-desktop>a.wt-col-inline.menu-second__download-button.wt-button.wt-button_size_s.wt-button_mode_primary
 05: //a[contains(@href, '/es-es/idea/features#collaborative')]
 06: //a[contains(text(),"IntelliJ Profiler")]
@@ -8,3 +11,7 @@
 08: //*[@id="overview-content"]/div/section[6]/div/div/div[2]/div/div/span/a    
 09: //a[contains(@href, '/es-es/products/compare/?product=idea&product=idea-ce')]
 10: 
+
+
+
+Los primeros 3 casos tienen dos links porque los nombres de las clases parecen variar de un dia al otro
